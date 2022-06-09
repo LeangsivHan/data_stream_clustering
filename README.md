@@ -1,7 +1,7 @@
 # data_stream_clustering
 Topic: Data stream clustering on low-cost machines using Micropython
 
-All implementation was store in `ulab/micropython/ports/unix/implementation` and the main file is `data_stream_clustering.py`. 
+All implementations were stored in `ulab/micropython/ports/unix/implementation` and the main file is `data_stream_clustering.py`. 
 
 To run the code, you need to stay in `unix` folder, and write this command line: 
 `./micropython-2 file_name`
